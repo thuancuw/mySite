@@ -5,7 +5,6 @@ body {
   font-family: 'Merriweather Sans', sans-serif;
   color: grey;
   background-color: #E4F9F5;
-
 }
 
 h1 {
@@ -22,13 +21,13 @@ h2 {
   color: #66BFBF;
   font-weight: normal;
   padding-bottom: 10px;
-
 }
+
 h3 {
   font-family: 'Merriweather Sans', sans-serif;
   color: #11999E;
-
 }
+
 a {
   color: #11999E;
 }
@@ -54,6 +53,7 @@ hr {
   width: 4%;
   margin: 100px auto;
 }
+
 .top-container {
   background-color: #E4F9F5;
   position: relative;
@@ -87,12 +87,6 @@ hr {
   bottom: 20px;
 }
 
-.bookcaption {
-  caption-side:top;
-  color: blue;
-  font-size:50px;
-}
-
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
@@ -108,8 +102,8 @@ hr {
 
 .webpage {
   width: 15%;
-  float: right;
-  padding-left: 30px;
+  float: left;
+  padding-right: 30px;
 }
 
 .intro {
